@@ -1,11 +1,9 @@
-html
-{
+html {
   background-color: rgb(66, 146, 238);
   font-family: Helvetica;
 }
 
-h1
-{
+h1 {
   font-size: 4.5em;
   text-align: center;
   color: white;
