@@ -1,6 +1,6 @@
 .positioning header,
 .box {
-  background-color: rgb(222, 255, 44)
+  background-color: rgb(222, 255, 44);
 }
 
 .positioning header {
@@ -12,7 +12,7 @@
 
 .positioning > .panel {
   height: 60vh;
-  border-bottom: 2em solid rgb(222, 255, 44)
+  border-bottom: 2em solid rgb(222, 255, 44);
 }
 
 .positioning h1 {
@@ -43,12 +43,12 @@
   left: 1em;
 }
 
-.three .box:nth-child(2){
+.three .box:nth-child(2) {
   bottom: 1em;
   left: 1em;
 }
 
-.three .box:nth-child(3){
+.three .box:nth-child(3) {
   right: 1em;
   top: 1em;
 }
